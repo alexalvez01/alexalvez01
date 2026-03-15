@@ -1,7 +1,7 @@
 
 # Hi, I'm Alex
 
-- 🎓 Third-year Information Systems student
+- 🎓 Fourth-year Information Systems student
 - 💻 Interested in Frontend and Full Stack Development
 - 🚀 Currently improving my skills by building personal projects
 
