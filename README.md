@@ -12,11 +12,7 @@ I enjoy learning new technologies and applying best practices to build clean and
 - LinkedIn: https://www.linkedin.com/in/alex-alvez-31b980365/
 - Email: alexfalvez001@gmail.com
 
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alexalvez01&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexalvez01&layout=donut&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=alexalvez01&show_icons=true&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexalvez01&layout=donut&theme=tokyonight" height="160"/>
 </p>
