@@ -1,16 +1,22 @@
-## Hi there 👋
 
-<!--
-**alexalvez01/alexalvez01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Alex
 
-Here are some ideas to get you started:
+- 🎓 Third-year Information Systems student
+- 💻 Interested in Frontend and Full Stack Development
+- 🚀 Currently improving my skills by building personal projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy learning new technologies and applying best practices to build clean and functional software.
+
+📫 Contact
+
+- LinkedIn: https://www.linkedin.com/in/alex-alvez-31b980365/
+- Email: alexfalvez001@gmail.com
+
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=alexalvez01&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexalvez01&layout=donut&theme=tokyonight" />
+</p>
