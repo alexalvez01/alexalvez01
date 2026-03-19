@@ -1,3 +1,5 @@
+<img width="3810" height="1120" alt="Presentation" src="https://github.com/user-attachments/assets/fcc13a3a-e52d-460b-a74e-b64256b323a5" />
+
 
 # Hi, I'm Alex
 
