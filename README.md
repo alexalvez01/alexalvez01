@@ -1,4 +1,4 @@
-<img width="3000" height="1000" alt="Presentation" src="https://github.com/user-attachments/assets/fcc13a3a-e52d-460b-a74e-b64256b323a5" />
+<img width="2500" height="900" alt="Presentation" src="https://github.com/user-attachments/assets/fcc13a3a-e52d-460b-a74e-b64256b323a5" />
 
 
 # Hi, I'm Alex
