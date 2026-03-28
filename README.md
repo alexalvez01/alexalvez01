@@ -13,6 +13,6 @@ I enjoy learning new technologies and applying best practices to build clean and
 
 - LinkedIn: https://www.linkedin.com/in/alex-alvez-31b980365/
 - Email: alexfalvez001@gmail.com
-
+- Portfolio: https://alexalvez01.github.io/Portfolio/
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=alexalvez01&theme=highcontrast)](https://git.io/streak-stats)
