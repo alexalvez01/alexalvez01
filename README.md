@@ -1,4 +1,4 @@
-<img width="2000" height="800" alt="Gemini_Generated_Image_jox36tjox36tjox3" src="https://github.com/user-attachments/assets/94416f56-8ee6-4081-b343-d9701605ac06" />
+<img width="2000" height="600" alt="Gemini_Generated_Image_jox36tjox36tjox3" src="https://github.com/user-attachments/assets/94416f56-8ee6-4081-b343-d9701605ac06" />
 
 
 # Hi, I'm Alex
