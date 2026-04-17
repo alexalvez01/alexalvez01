@@ -15,4 +15,6 @@ I enjoy learning new technologies and applying best practices to build clean and
 - Email: alexfalvez001@gmail.com
 - Portfolio: https://alexalvez01.github.io/Portfolio/
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=alexalvez01&theme=highcontrast)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexalvez01&layout=donut&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexalvez01&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
